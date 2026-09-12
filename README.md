@@ -1,1 +1,3 @@
-# 4d-skills-test-claude
+# skills
+
+[Agent Skills](https://agentskills.io/home) for 4D development.
